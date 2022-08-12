@@ -4,6 +4,17 @@
 
 </br>
 
+Galileo's  polynomials  model acceleration, speed, and distance (sans wind and air resistance)
+
+$$
+x = v \underset{1}{}  t
+$$
+
+$$ v\underset{1}{} = \textnormal{starting speed of the ball on the horizontal plane}$$
+
+
+
+
 Set the ball trajectory function equal to zero
 
 $$
